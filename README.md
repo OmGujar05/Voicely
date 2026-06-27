@@ -49,23 +49,6 @@ flutter run
  4. Run the Application
 Ensure that the backend server is running before launching the Flutter application.
 
-📂 Project Structure
-
-Voicely/
-│
-├── email/                 # Flutter Frontend
-│   ├── lib/
-│   ├── assets/
-│   └── pubspec.yaml
-│
-├── backend/               # Node.js Backend
-│   ├── config/
-│   ├── package.json
-│   ├── index.js
-│   └── .env
-│
-└── README.md
-
 🎯 Objective
 
 To make email communication accessible and independent for visually impaired users through intuitive voice-driven interactions.
