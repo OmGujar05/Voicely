@@ -57,18 +57,23 @@ To make email communication accessible and independent for visually impaired use
 📸 Important Screenshots from the Application
 
 Home Page :
+
 <img width="1918" height="997" alt="s1" src="https://github.com/user-attachments/assets/313eb145-c392-4dd1-9978-82eb49029cc7" />
 
 Send/Compose Email Screen:
+
 <img width="1918" height="996" alt="s2" src="https://github.com/user-attachments/assets/a424457e-fb8c-4ab5-8364-4748b6f750b9" />
 
 Inbox Screen:
+
 <img width="1918" height="997" alt="s3" src="https://github.com/user-attachments/assets/0d722f81-8ae4-4334-9965-95f4652f1f65" />
 
 Sent Email Screen:
+
 <img width="1918" height="927" alt="s4" src="https://github.com/user-attachments/assets/8d91e663-206b-4c2a-835d-606b60382191" />
 
 All Mails Screen:
+
 <img width="1918" height="922" alt="s5" src="https://github.com/user-attachments/assets/cc6d5e84-5016-42a8-8337-069d6d3f3f37" />
 
 🤝 Contributing
