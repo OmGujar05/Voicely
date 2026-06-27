@@ -27,7 +27,7 @@ Node.js
 VS Code
 🚀 Installation
 
-Clone the Repository git clone https://github.com/Pranali553/voicely.git cd voicely
+Clone the Repository git clone https://github.com/OmGujar05/voicely.git cd voicely
 
 Setup the Backend cd backend npm install node index.js The backend server will start on the configured port.
 
