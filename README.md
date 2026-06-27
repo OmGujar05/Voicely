@@ -84,6 +84,7 @@ All Mails Screen:
 
 <img width="1918" height="922" alt="s5" src="https://github.com/user-attachments/assets/cc6d5e84-5016-42a8-8337-069d6d3f3f37" />
 
+
 🤝 Contributing
 
 Contributions are welcome. Feel free to fork the repository and submit pull requests.
