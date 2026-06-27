@@ -4,50 +4,36 @@ Voicely is an accessibility-focused voice-based email application designed to em
 
 ✨ Features
 
-* 🎤 Voice-based email composition
-* 🔊 Text-to-Speech for reading emails aloud
-* 🗣️ Speech-to-Text for voice input
-* 📧 Send and receive emails using voice commands
-* ♿ Accessibility-focused user interface
-* 📱 Cross-platform Flutter application
-
+🎤 Voice-based email composition
+🔊 Text-to-Speech for reading emails aloud
+🗣️ Speech-to-Text for voice input
+📧 Send and receive emails using voice commands
+♿ Accessibility-focused user interface
+📱 Cross-platform Flutter application
 🛠️ Tech Stack
 
-* Flutter
-* Dart
-* Node.js
-* Express.js
-* MySQL
-* REST APIs
-* Speech-to-Text (STT)
-* Text-to-Speech (TTS)
-
+Flutter
+Dart
+Node.js
+Express.js
+MySQL
+REST APIs
+Speech-to-Text (STT)
+Text-to-Speech (TTS)
 🚀 Prerequisites
 
-* Flutter SDK
-* Node.js
-* VS Code
-
+Flutter SDK
+Node.js
+VS Code
 🚀 Installation
 
-1. Clone the Repository
-git clone https://github.com/Pranali553/voicely.git
-cd voicely
+Clone the Repository git clone https://github.com/OmGujar05/voicely.git cd voicely
 
-2. Setup the Backend
-cd backend
-npm install
-node index.js
-The backend server will start on the configured port.
+Setup the Backend cd backend npm install node index.js The backend server will start on the configured port.
 
- 3. Setup the Frontend
-Open a new terminal:
-cd email
-flutter pub get
-flutter run
+Setup the Frontend Open a new terminal: cd email flutter pub get flutter run
 
- 4. Run the Application
-Ensure that the backend server is running before launching the Flutter application.
+Run the Application Ensure that the backend server is running before launching the Flutter application.
 
 🎯 Objective
 
