@@ -31,7 +31,7 @@ Voicely is an accessibility-focused voice-based email application designed to em
 🚀 Installation
 
 1. Clone the Repository
-git clone https://github.com/your-username/voicely.git
+git clone https://github.com/Pranali553/voicely.git
 cd voicely
 
 2. Setup the Backend
